@@ -1,24 +1,22 @@
-# README
+# STRIPE MAILCHIMP From RENNES
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Groupe : Sandrine, Rémi, Christophe et Romain
 
-Things you may want to cover:
+* [lien Heroku](https://stripe-mailchimp.herokuapp.com/) - https://stripe-mailchimp.herokuapp.com/
 
-* Ruby version
+Pour démarrer l'Application
 
-* System dependencies
+clone le repository
 
-* Configuration
+```https://github.com/RomainSai/stripe-mailchimp```
 
-* Database creation
+```bundle install```
+```rails db:create```
+```rails db:migrate```
 
-* Database initialization
+ * lancer votre server : rails server
+ * http://localhost:3000/
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+Enjoy :)
